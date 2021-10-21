@@ -244,7 +244,7 @@ class music(commands.Cog):
 
                     colour= 32768,#green
 
-                    description = f"{txt}\n\n[Crie seu próprio Bot de Música](https://youtu.be/YGx0xNHzjgE)"
+                    description = f"{txt}\n\n[Criado por @uWaazy](https://youtube.com/c/uWaazy)"
 
                 )
 
