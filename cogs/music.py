@@ -178,7 +178,7 @@ class music(commands.Cog):
 
             title=f'Comandos do {self.client.user.name}',
 
-            description = helptxt+'\n[Crie seu próprio Bot de Música](https://youtu.be/YGx0xNHzjgE)'
+            description = helptxt+'\n[Criado por @uWaazy#9950](https://youtube.com/c/uWaazy)'
 
         )
 
